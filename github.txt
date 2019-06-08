@@ -35,8 +35,9 @@ test
 [finish]2-(1Å`9)
 
 -Rails-
-[Start]2-(1Å`4)
-[Finish]2-(1Å`4)
+[Start]3-(1Å`4)
+[Finish]3-(1Å`4)
 
-[Start]2-5
+[Start]3-5
+[Finish]3-5/3-6
 
